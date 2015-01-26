@@ -1,0 +1,24 @@
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Sun 25 Jan 2015 06:14:39 PM PST
+
+BeginCmp
+TimeStamp = /54BEAC6B;
+Reference = N1;
+ValeurCmp = SONAR_MASTER;
+IdModule  = sonar_riser:Pin_Header_Straight_2x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54BEACAE;
+Reference = N2;
+ValeurCmp = SONAR_SLAVE;
+IdModule  = sonar_riser:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C5A15C;
+Reference = OSHW1;
+ValeurCmp = OSHW;
+IdModule  = sonar_riser:OSHW_LOGO_200mil;
+EndCmp
+
+EndListe

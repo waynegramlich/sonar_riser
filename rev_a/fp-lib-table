@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name sonar_riser)(type KiCad)(uri $KIPRJMOD/sonar_riser.pretty)(options "")(descr ""))
+)
